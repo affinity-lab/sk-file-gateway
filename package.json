@@ -1,0 +1,12 @@
+{
+  "name": "@affinity-lab/sk-file-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Gergely Laborci"
+  },
+  "dependencies": {
+    "@sveltejs/kit": "next",
+    "devalue": "^4.3.0"
+  }
+}
